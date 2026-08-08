@@ -1,0 +1,13 @@
+{
+  "name": "eduview-proxy",
+  "version": "1.0.0",
+  "description": "Educational web proxy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "express": "^5.1.0"
+  }
+}
